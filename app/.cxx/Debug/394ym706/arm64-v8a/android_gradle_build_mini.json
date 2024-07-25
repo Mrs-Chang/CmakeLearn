@@ -1,0 +1,34 @@
+{
+  "buildFiles": [
+    "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/CMakeLists.txt",
+    "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/gaochang/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/394ym706/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/gaochang/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/394ym706/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "linker::@6dc6c9ce707aaa1aacbb": {
+      "artifactName": "linker",
+      "abi": "arm64-v8a",
+      "output": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/394ym706/arm64-v8a/linker/liblinker.a",
+      "runtimeFiles": []
+    },
+    "threadhook::@6890427a1f51a3e7e1df": {
+      "artifactName": "threadhook",
+      "abi": "arm64-v8a",
+      "output": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/build/intermediates/cxx/Debug/394ym706/obj/arm64-v8a/libthreadhook.so",
+      "runtimeFiles": []
+    }
+  }
+}

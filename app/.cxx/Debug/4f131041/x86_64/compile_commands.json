@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/4f131041/x86_64",
+  "command": "/Users/gaochang/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --sysroot=/Users/gaochang/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcmakelearn_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cmakelearn.dir/native-lib.cpp.o -c /Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/native-lib.cpp"
+}
+]

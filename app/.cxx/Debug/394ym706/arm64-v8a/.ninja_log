@@ -1,0 +1,14 @@
+# ninja log v5
+3604	3840	1721915516240592195	/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/build/intermediates/cxx/Debug/394ym706/obj/arm64-v8a/libthreadhook.so	9103a0cc6de0b022
+1	482	1721915125658673418	linker/CMakeFiles/linker.dir/trampoline.cpp.o	1d7d02bc23decbdc
+1	215	1721915512615903233	linker/CMakeFiles/linker.dir/sig_safe_write.c.o	ea2177e158926768
+1	104	1721915125283541071	linker/CMakeFiles/linker.dir/abort_with_reason.c.o	4e8389ff3dca92ff
+0	574	1721915125752310255	linker/CMakeFiles/linker.dir/linker.cpp.o	4b28b3e77db9caf6
+0	179	1721915125358146101	linker/CMakeFiles/linker.dir/phaser.c.o	23711f40090e3a4
+0	503	1721915125681836128	linker/CMakeFiles/linker.dir/elfSharedLibData.cpp.o	538eafa3a8d6ce55
+1	193	1721915125371759636	linker/CMakeFiles/linker.dir/sigmux.c.o	8eae4c27789aeb7a
+215	3604	1721915516008875000	linker/liblinker.a	727bb0f7a565397e
+0	483	1721915125660767994	CMakeFiles/threadhook.dir/threadHook.cpp.o	846271c13c7202a7
+0	522	1721915125699392399	linker/CMakeFiles/linker.dir/link.cpp.o	8bf015fa46808a67
+0	628	1721915125806628272	linker/CMakeFiles/linker.dir/sharedlibs.cpp.o	ce5f17147fda82be
+0	682	1721915125860128375	linker/CMakeFiles/linker.dir/hooks.cpp.o	c18ad83f99209778

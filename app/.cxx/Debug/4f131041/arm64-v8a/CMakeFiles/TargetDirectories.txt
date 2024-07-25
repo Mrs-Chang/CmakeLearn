@@ -1,0 +1,6 @@
+/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/4f131041/arm64-v8a/CMakeFiles/threadhook.dir
+/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/4f131041/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/4f131041/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/4f131041/arm64-v8a/linker/CMakeFiles/linker.dir
+/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/4f131041/arm64-v8a/linker/CMakeFiles/edit_cache.dir
+/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/4f131041/arm64-v8a/linker/CMakeFiles/rebuild_cache.dir

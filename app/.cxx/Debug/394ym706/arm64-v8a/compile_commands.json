@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/394ym706/arm64-v8a",
+  "command": "/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android26 --gcc-toolchain=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dthreadhook_EXPORTS -I/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++   -std=c++11 -pthread -D__ARM__  -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/threadhook.dir/threadHook.cpp.o -c /Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/threadHook.cpp",
+  "file": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/threadHook.cpp"
+},
+{
+  "directory": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/394ym706/arm64-v8a",
+  "command": "/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android26 --gcc-toolchain=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++   -std=c++11 -pthread -D__ARM__  -O0 -fno-limit-debug-info  -fPIC -o linker/CMakeFiles/linker.dir/elfSharedLibData.cpp.o -c /Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/elfSharedLibData.cpp",
+  "file": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/elfSharedLibData.cpp"
+},
+{
+  "directory": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/394ym706/arm64-v8a",
+  "command": "/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android26 --gcc-toolchain=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++   -std=c++11 -pthread -D__ARM__  -O0 -fno-limit-debug-info  -fPIC -o linker/CMakeFiles/linker.dir/hooks.cpp.o -c /Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/hooks.cpp",
+  "file": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/hooks.cpp"
+},
+{
+  "directory": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/394ym706/arm64-v8a",
+  "command": "/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android26 --gcc-toolchain=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++   -std=c++11 -pthread -D__ARM__  -O0 -fno-limit-debug-info  -fPIC -o linker/CMakeFiles/linker.dir/link.cpp.o -c /Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/link.cpp",
+  "file": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/link.cpp"
+},
+{
+  "directory": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/394ym706/arm64-v8a",
+  "command": "/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android26 --gcc-toolchain=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++   -std=c++11 -pthread -D__ARM__  -O0 -fno-limit-debug-info  -fPIC -o linker/CMakeFiles/linker.dir/linker.cpp.o -c /Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/linker.cpp",
+  "file": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/linker.cpp"
+},
+{
+  "directory": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/394ym706/arm64-v8a",
+  "command": "/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android26 --gcc-toolchain=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -o linker/CMakeFiles/linker.dir/phaser.c.o -c /Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/phaser.c",
+  "file": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/phaser.c"
+},
+{
+  "directory": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/394ym706/arm64-v8a",
+  "command": "/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android26 --gcc-toolchain=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++   -std=c++11 -pthread -D__ARM__  -O0 -fno-limit-debug-info  -fPIC -o linker/CMakeFiles/linker.dir/sharedlibs.cpp.o -c /Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/sharedlibs.cpp",
+  "file": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/sharedlibs.cpp"
+},
+{
+  "directory": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/394ym706/arm64-v8a",
+  "command": "/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android26 --gcc-toolchain=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -o linker/CMakeFiles/linker.dir/sig_safe_write.c.o -c /Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/sig_safe_write.c",
+  "file": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/sig_safe_write.c"
+},
+{
+  "directory": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/394ym706/arm64-v8a",
+  "command": "/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android26 --gcc-toolchain=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -o linker/CMakeFiles/linker.dir/sigmux.c.o -c /Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/sigmux.c",
+  "file": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/sigmux.c"
+},
+{
+  "directory": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/394ym706/arm64-v8a",
+  "command": "/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android26 --gcc-toolchain=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++   -std=c++11 -pthread -D__ARM__  -O0 -fno-limit-debug-info  -fPIC -o linker/CMakeFiles/linker.dir/trampoline.cpp.o -c /Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/trampoline.cpp",
+  "file": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/trampoline.cpp"
+},
+{
+  "directory": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/394ym706/arm64-v8a",
+  "command": "/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android26 --gcc-toolchain=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -o linker/CMakeFiles/linker.dir/abort_with_reason.c.o -c /Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/abort_with_reason.c",
+  "file": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/abort_with_reason.c"
+},
+{
+  "directory": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/394ym706/arm64-v8a",
+  "command": "/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android26 --gcc-toolchain=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/gaochang/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -o linker/CMakeFiles/linker.dir/trampoline_arm.c.o -c /Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/trampoline_arm.c",
+  "file": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/trampoline_arm.c"
+}
+]

@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/gaochang/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/4f131041/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/gaochang/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/4f131041/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "cmakelearn::@6890427a1f51a3e7e1df": {
+      "artifactName": "cmakelearn",
+      "abi": "x86_64",
+      "output": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/build/intermediates/cxx/Debug/4f131041/obj/x86_64/libcmakelearn.so",
+      "runtimeFiles": []
+    }
+  }
+}

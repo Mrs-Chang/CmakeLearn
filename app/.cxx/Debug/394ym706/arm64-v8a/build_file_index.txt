@@ -1,0 +1,2 @@
+/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/CMakeLists.txt
+/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/CMakeLists.txt

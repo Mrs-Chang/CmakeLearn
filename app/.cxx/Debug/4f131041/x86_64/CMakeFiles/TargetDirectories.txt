@@ -1,0 +1,3 @@
+/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/4f131041/x86_64/CMakeFiles/cmakelearn.dir
+/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/4f131041/x86_64/CMakeFiles/edit_cache.dir
+/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/4f131041/x86_64/CMakeFiles/rebuild_cache.dir

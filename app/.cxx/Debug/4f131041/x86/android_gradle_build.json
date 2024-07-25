@@ -1,0 +1,47 @@
+{
+  "buildFiles": [
+    "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/CMakeLists.txt",
+    "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/src/main/cpp/linker/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/gaochang/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/4f131041/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/gaochang/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/4f131041/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "linker::@6dc6c9ce707aaa1aacbb": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "linker",
+      "output": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/.cxx/Debug/4f131041/x86/linker/liblinker.a"
+    },
+    "threadhook::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "threadhook",
+      "output": "/Users/gaochang/AndroidStudioProjects/CmakeLearn/app/build/intermediates/cxx/Debug/4f131041/obj/x86/libthreadhook.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/gaochang/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/gaochang/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
